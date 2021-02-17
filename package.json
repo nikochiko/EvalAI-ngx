@@ -23,7 +23,7 @@
     "@angular/common": "^7.2.15",
     "@angular/compiler": "^7.2.15",
     "@angular/core": "^7.2.15",
-    "@angular/forms": "^7.2.15",
+    "@angular/forms": "^11.2.1",
     "@angular/http": "^7.2.15",
     "@angular/material": "^7.2.0",
     "@angular/platform-browser": "^7.2.15",
